@@ -1,0 +1,18 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dfh
+$$ /opt/nmrdata/user/dfh/nmr/VEERA_KANA_12062024/3/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-06-12 13:24:26.382 +0100>,<dfh>,<CZC943CYR0>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2024-06-12 13:21:41.244 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       09 05 83 CE C3 EC D0 65 36 30 C6 32 32 D1 8E 35
+       data hash MD5: 32K * 5
+       A7 3F A1 85 32 9F 8C E5 80 D7 FF 41 67 5D 0E 21>)
+##END=
+
+$$ hash MD5
+$$ 2C 68 A4 1E 52 88 1C CD 05 D8 FD 87 FF FE C5 50

@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.6.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= dfh
+$$ 2024-06-12 13:20:15.180 +0100  dfh@CZC943CYR0
+$$ /opt/nmrdata/user/dfh/nmr/VEERA_KANA_12062024/3/acqu2
+$$ process /opt/topspin3.6.2/prog/mod/dataserver
+##$ACQT0= 0
+##$BF1= 800.44
+##$FnMODE= 1
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 3762.068
+##$ProjAngle= 0
+##$SFO1= 800.443762068
+##$SW= 0.0625955498713855
+##$SW_h= 50.1042175292969
+##$TD= 5
+##END=
